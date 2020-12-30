@@ -13,7 +13,7 @@
 //
 // See also related functions JulianToGregorian and GregorianToJulian in
 // package jm.
-package julian
+package date 
 
 import (
 	"math"

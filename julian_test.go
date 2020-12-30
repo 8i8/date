@@ -1,7 +1,7 @@
 // Copyright 2012 Sonia Keys
 // License: MIT
 
-package julian
+package date
 
 import (
 	"fmt"
